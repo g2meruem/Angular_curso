@@ -1,0 +1,7 @@
+let name ='piroca';
+
+
+
+
+
+export{};
