@@ -1,5 +1,5 @@
 import './style.css';
-import './topics/05-basic-destructure';
+import './topics/08-classes';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
